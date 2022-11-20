@@ -2,7 +2,7 @@
 
 - 💻 The programming language I master the most is Go.
 - 🔭 I’m currently working with ReactJS, PHP, Python, NodeJS, React Native and TypeScript.
-- 🌱 I’m currently learning React Native and React JS.
+- 🌱 I’m currently learning ReactJS and React Native.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
 
 ##
