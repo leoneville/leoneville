@@ -17,9 +17,8 @@
 
 <div style="display: inline_block"><br/>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="Go" width="35" height="35" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" width="35" height="35" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="35" height="35" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="35" height="35" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="35" height="35" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" style="max-width: 100%;">     
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="35" height="35" style="max-width: 100%;">
     <img src="https://github.com/tomchen/stack-icons/raw/master/logos/yarn.svg" alt="Yarn" width="35" height="35" style="max-width: 100%;">
