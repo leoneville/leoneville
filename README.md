@@ -1,8 +1,7 @@
 ### Hello there, I'm Neville Guimarães 🖐️
 
-- 💻 The programming language I master the most is Go.
-- 🔭 I’m currently working with ReactJS, PHP, Python, NodeJS, React Native and TypeScript.
-- 🌱 I’m currently learning ReactJS and React Native.
+- 💻 The programming language I master the most is Golang.
+- 🔭 I’m currently working with Python, Flask, Golang and ReactJS.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
 
 ##
