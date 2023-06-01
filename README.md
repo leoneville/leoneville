@@ -18,10 +18,10 @@
     <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go" alt="go Badge" height="25">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="35" height="35" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" style="max-width: 100%;">     
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="35" height="35" style="max-width: 100%;">
-    <img src="https://github.com/tomchen/stack-icons/raw/master/logos/yarn.svg" alt="Yarn" width="35" height="35" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
+    <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+    <img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
+    <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 </div>
   
 ##
