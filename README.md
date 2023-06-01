@@ -15,8 +15,8 @@
 ## Languages and Tools:
 
 <div style="display: inline_block"><br/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="35" height="35" style="max-width: 100%;">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/flask.svg" alt="Python" width="35" height="35" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+    <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="Go" width="35" height="35" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="35" height="35" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" style="max-width: 100%;">     
