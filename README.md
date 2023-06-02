@@ -1,5 +1,8 @@
 ### Hello there, I'm Neville Guimarães 🖐️
 
+![Profile Views](https://komarev.com/ghpvc/?username=leoneville&theme=default&color=blue&style=flat&label=Profile+Views)
+
+## About me
 - 💻 The programming language I master the most is Python | Flask.
 - 🔭 I’m currently working with Python, Flask, Golang and ReactJS.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
