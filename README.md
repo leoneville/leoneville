@@ -4,7 +4,7 @@
 
 ## About me
 - 💻 The programming language I master the most is Python | Flask.
-- 🔭 I’m currently working with Python, Flask, Golang and ReactJS.
+- 🔭 I’m currently working with Python, Flask, C#, .Net and Asp.Net.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
 
 ##
