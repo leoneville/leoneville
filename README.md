@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=leoneville&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
-- 💻 The programming language I master the most is Python | Flask.
-- 🔭 I’m currently working with Python, Flask, C#, .Net and Asp.Net.
+- 💻 The programming language I master the most is C# | .Net | Asp.Net Core | Python | Flask.
+- 🔭 I’m currently working with C#, Asp.Net Core, Python and Flask.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
 
 ##
@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
-    <img src="https://img.shields.io/badge/Go-05122A?style=flat&logo=go" alt="go Badge" height="25">&nbsp;
+    <img src="https://img.shields.io/badge/C#-05122A?style=flat&logo=cs" alt="cs Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
