@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=leoneville&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
-- 💻 The programming language I master the most is C# | .Net | Asp.Net Core | Python | Flask.
-- 🔭 I’m currently working with C#, Asp.Net Core, Python and Flask.
+- 💻 The programming language I master the most is Python and C#.
+- 🔭 I’m currently working with Python and Flask.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
 
 ##
