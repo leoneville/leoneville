@@ -18,12 +18,9 @@
 ## Languages and Tools:
 
 <div style="display: inline_block"><br/>
-    <img src="https://img.shields.io/badge/c%23-%23239120?style=flat&logo=csharp&logoColor=white" alt="CSharp Badge" height="25">&nbsp;
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".Net Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="python Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="django Badge" height="25">&nbsp;
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="sqlserver Badge" height="25">&nbsp;
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="mysql Badge" height="25">&nbsp;
