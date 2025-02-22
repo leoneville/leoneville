@@ -1,10 +1,10 @@
-### Hello there, I'm Neville Guimarães 🖐️
+### Hello there, I'm Leonardo Neville 🖐️
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leoneville&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
-- 💻 The programming language I master the most is Python | Flask | FastAPI.
-- 🔭 I’m currently working with Python and Flask.
+- 💻 The programming language I master the most is Python.
+- 🔭 I'm currently working as a Backend Developer using Flask, FastAPI, SQLAlchemy, Pydantic, and other technologies.
 - ⚡ Fun fact: I love play video games, tennis, soccer with my friends and speding time with family and friends.
 
 ##
